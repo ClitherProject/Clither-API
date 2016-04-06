@@ -1,8 +1,8 @@
-# Ogar 2 API [![Travis-CI](https://travis-ci.org/OgarioProject/Ogar2-API.svg)](https://travis-ci.org/OgarioProject/Ogar2-API)
-The plugin API for Ogar 2, the open-source Agar.io server implementation written in Java. Ogar 2 is the successor to [Ogar 1.0, the old Node.js implementation](https://github.com/OgarProject/Ogar).
+# Clither API [![Travis-CI](https://travis-ci.org/ClitherProject/Clither-API.svg)](https://travis-ci.org/ClitherProject/Clither-API)
+The plugin API for Clither, the open-source Slither.io server implementation written in Java.
 
 ## Contributing
-Please see [CONTRIBUTING.md in the Ogar Server repository](https://github.com/OgarProject/Ogar2-Server/blob/master/CONTRIBUTING.md) for contribution guidelines.
+Please see [CONTRIBUTING.md in the Clither Server repository](https://github.com/ClitherProject/Clither-Server/blob/master/CONTRIBUTING.md) for contribution guidelines.
 
 ## License
-Please see [LICENSE.txt](https://github.com/OgarProject/Ogar2-API/blob/master/LICENSE.txt).
+Please see [LICENSE.txt](https://github.com/ClitherProject/Clither-API/blob/master/LICENSE.txt).
