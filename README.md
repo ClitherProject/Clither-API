@@ -6,3 +6,6 @@ Please see [CONTRIBUTING.md in the Clither Server repository](https://github.com
 
 ## License
 Please see [LICENSE.txt](https://github.com/ClitherProject/Clither-API/blob/master/LICENSE.txt).
+
+## Note:
+The Clither Project is not affiliated with the creators of Slither.io
