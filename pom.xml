@@ -59,7 +59,7 @@
                 <configuration>
                     <header>com/mycila/maven/plugin/license/templates/GPL-3.txt</header>
                     <properties>
-                        <project.name>Ogar</project.name>
+                        <project.name>Clither</project.name>
                     </properties>
                     <excludes>
                         <exclude>target/**</exclude>
