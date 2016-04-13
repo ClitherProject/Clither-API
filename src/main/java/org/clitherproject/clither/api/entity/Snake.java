@@ -17,6 +17,7 @@
 package org.clitherproject.clither.api.entity;
 
 import org.clitherproject.clither.api.SnakeOwner;
+import org.clitherproject.clither.api.world.Position;
 
 public interface Snake {
 	
@@ -25,5 +26,15 @@ public interface Snake {
     public void setName(String name);
 
     public SnakeOwner getOwner();
+    
+    public int getID();
+    
+    public int getMass();
+
+	public Position getPosition();
+
+	public int getPhysicalSize();
+
+	public void setPosition(Position add);
 
 }

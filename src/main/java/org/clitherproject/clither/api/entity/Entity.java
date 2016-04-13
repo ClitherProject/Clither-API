@@ -18,8 +18,7 @@ package org.clitherproject.clither.api.entity;
 
 import java.awt.Color;
 
-import javax.swing.text.Position;
-
+import org.clitherproject.clither.api.world.Position;
 import org.clitherproject.clither.api.world.World;
 
 /**

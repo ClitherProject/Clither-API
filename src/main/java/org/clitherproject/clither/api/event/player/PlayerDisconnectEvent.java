@@ -27,8 +27,4 @@ public class PlayerDisconnectEvent extends Event {
         this.player = player;
     }
 
-    public Player getPlayer() {
-        return player;
-    }
-
 }
