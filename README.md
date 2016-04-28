@@ -1,4 +1,4 @@
-# Clither API [![Travis-CI](https://travis-ci.org/ClitherProject/Clither-API.svg)](https://travis-ci.org/ClitherProject/Clither-API)
+# Clither API [![Build Status](https://jenkins.willsr71.net/job/Clither-API/badge/icon)](https://jenkins.willsr71.net/job/Clither-API/)
 The plugin API for Clither, the open-source Slither.io server implementation written in Java.
 
 ## Contributing
