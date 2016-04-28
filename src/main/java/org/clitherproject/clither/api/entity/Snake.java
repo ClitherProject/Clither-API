@@ -31,10 +31,10 @@ public interface Snake {
     
     public int getMass();
 
-	public Position getPosition();
+    public Position getPosition();
 
-	public int getPhysicalSize();
+    public int getPhysicalSize();
 
-	public void setPosition(Position add);
+    public void setPosition(Position add);
 
 }
