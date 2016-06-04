@@ -19,8 +19,8 @@
 
     <distributionManagement>
         <repository>
-            <id>willsr71-repo</id>
-            <url>https://repo.willsr71.net/content/repositories/releases</url>
+            <id>noxal-repo</id>
+            <url>https://repo.noxal.net/content/repositories/releases</url>
         </repository>
     </distributionManagement>
 
